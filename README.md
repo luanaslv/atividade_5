@@ -10,7 +10,7 @@ Este arquivo refere-se a classe CandidatoApp, que representa a interface gráfic
 # recrutador.py
 Este arquivo define a classe RecrutadorApp, que representa a interface gráfica para recrutadores visualizarem candidatos com base em um consulta de filtros específicos. Para realizar uma consulta mais refinada é necessário preencher pelo menos um dos campos, caso contrário, o programa retornará todos os candidados do banco em questão.
 
-#Integrantes:
+# Integrantes:
 Gustavo Victor Teixeira de Sousa;
 Matrícula: 202209303602
 
